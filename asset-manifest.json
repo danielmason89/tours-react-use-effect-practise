@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/danielmason89/tours-react-use-effect-practise.git/static/css/main.8e49c9d7.chunk.css",
-    "main.js": "/danielmason89/tours-react-use-effect-practise.git/static/js/main.7e51e064.chunk.js",
-    "main.js.map": "/danielmason89/tours-react-use-effect-practise.git/static/js/main.7e51e064.chunk.js.map",
-    "runtime-main.js": "/danielmason89/tours-react-use-effect-practise.git/static/js/runtime-main.c289105c.js",
-    "runtime-main.js.map": "/danielmason89/tours-react-use-effect-practise.git/static/js/runtime-main.c289105c.js.map",
-    "static/js/2.b79bb511.chunk.js": "/danielmason89/tours-react-use-effect-practise.git/static/js/2.b79bb511.chunk.js",
-    "static/js/2.b79bb511.chunk.js.map": "/danielmason89/tours-react-use-effect-practise.git/static/js/2.b79bb511.chunk.js.map",
-    "index.html": "/danielmason89/tours-react-use-effect-practise.git/index.html",
-    "precache-manifest.6300cfc574e741bc21d5f3566261936e.js": "/danielmason89/tours-react-use-effect-practise.git/precache-manifest.6300cfc574e741bc21d5f3566261936e.js",
-    "service-worker.js": "/danielmason89/tours-react-use-effect-practise.git/service-worker.js",
-    "static/css/main.8e49c9d7.chunk.css.map": "/danielmason89/tours-react-use-effect-practise.git/static/css/main.8e49c9d7.chunk.css.map",
-    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/danielmason89/tours-react-use-effect-practise.git/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+    "main.css": "/tours-react-use-effect-practise/static/css/main.8e49c9d7.chunk.css",
+    "main.js": "/tours-react-use-effect-practise/static/js/main.7e51e064.chunk.js",
+    "main.js.map": "/tours-react-use-effect-practise/static/js/main.7e51e064.chunk.js.map",
+    "runtime-main.js": "/tours-react-use-effect-practise/static/js/runtime-main.a13cf5d5.js",
+    "runtime-main.js.map": "/tours-react-use-effect-practise/static/js/runtime-main.a13cf5d5.js.map",
+    "static/js/2.b79bb511.chunk.js": "/tours-react-use-effect-practise/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/tours-react-use-effect-practise/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/tours-react-use-effect-practise/index.html",
+    "precache-manifest.6851642e9be113a71fcf52c04a891cb8.js": "/tours-react-use-effect-practise/precache-manifest.6851642e9be113a71fcf52c04a891cb8.js",
+    "service-worker.js": "/tours-react-use-effect-practise/service-worker.js",
+    "static/css/main.8e49c9d7.chunk.css.map": "/tours-react-use-effect-practise/static/css/main.8e49c9d7.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/tours-react-use-effect-practise/static/js/2.b79bb511.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c289105c.js",
+    "static/js/runtime-main.a13cf5d5.js",
     "static/js/2.b79bb511.chunk.js",
     "static/css/main.8e49c9d7.chunk.css",
     "static/js/main.7e51e064.chunk.js"
